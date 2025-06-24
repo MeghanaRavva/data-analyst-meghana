@@ -152,15 +152,21 @@ The results are like
 
 This diagram explains the shared responsibility model between the City of Vancouver (CoV) and AWS when using Amazon EC2 (Elastic Compute Cloud). CoV is responsible for everything inside the virtual server: configuring, securing, and managing the EC2 instance, deploying runtime environments (platform), installing and updating applications (software), and handling the dataset (creating, storing, and securing data). On the other hand, AWS is responsible for the infrastructure layer: ensuring the EC2 service is running, maintaining platform support, and securing the physical hardware and storage.
 The result of this case study are CoV has full control and responsibility over what runs inside the server, while AWS ensures the underlying infrastructure is reliable and secure. This model allows CoV to retain flexibility while AWS guarantees uptime and hardware stability.
-# AWS VPC
-## Case Study #10: Build your VPC: Lab 2
+
+## Case study 9: IAM Practice Lab 1
 <img width="583" alt="image" src="https://github.com/user-attachments/assets/54a04e89-d528-44d2-9013-af0013f3cc43" />
 
 I completed and experienced Lab 1 which is an Introduction to AWS IAM as part of my AWS Academy training. Through this lab, I gained hands-on experience in managing permissions using IAM roles, users, and policies. It helped me understand how to control secure access to AWS services. I submitted the lab and i have some idea reflecting my understanding of the core IAM concepts. This practical exercise strengthened my confidence in applying IAM principles within real AWS environments.
-# AWS Lambda 
-## Case Study #11: Create an AWS Lambda function
+# AWS VPC
+## Case Study #10: Build your VPC: Lab 2
+
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/7cf3f255-cf96-4419-8dc4-02f8d9f1d4a2" />
 
 I practiced Lab 2: Build Your VPC and Launch a Web Server, where I learned how to create a Virtual Private Cloud (VPC), configure subnets, and launch a web server within AWS. This hands-on lab helped me understand key networking components like route tables, internet gateways, and security groups. It gave me practical experience in setting up a secure, isolated network environment—skills that are essential for deploying cloud applications and managing infrastructure in real-world scenarios.
+# AWS Lambda 
+## Case Study #11: Create an AWS Lambda function
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/1f258c27-3b9e-4e14-af6c-9f134a4232bc" />
+
+I practiced Lab 3: Create an AWS Lambda Function, where I learned how to build and deploy a serverless function using AWS Lambda. This lab helped me understand how to write and run code without managing servers, define triggers, and handle event-driven execution. It was a valuable experience for learning how to automate backend tasks and streamline operations, which is especially useful for building scalable and cost-effective cloud applications.
 # AWS EBS
 ## 

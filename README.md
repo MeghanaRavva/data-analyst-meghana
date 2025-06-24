@@ -169,4 +169,8 @@ I practiced Lab 2: Build Your VPC and Launch a Web Server, where I learned how t
 
 I practiced Lab 3: Create an AWS Lambda Function, where I learned how to build and deploy a serverless function using AWS Lambda. This lab helped me understand how to write and run code without managing servers, define triggers, and handle event-driven execution. It was a valuable experience for learning how to automate backend tasks and streamline operations, which is especially useful for building scalable and cost-effective cloud applications.
 # AWS EBS
-## 
+## Case study 12 : Working with Amazon EBS 
+![image](https://github.com/user-attachments/assets/59f48dbf-9838-4226-8efe-0d043972c3fc)
+
+I practiced Lab 4: Working with EBS, where I learned how to create, attach, and manage Amazon Elastic Block Store (EBS) volumes. This hands-on experience helped me understand how EBS provides persistent block storage for EC2 instances, how to resize volumes, and how to ensure data durability. It was useful for building a solid foundation in managing storage resources in AWS cloud environments.
+

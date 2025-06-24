@@ -1,4 +1,4 @@
-# Descrpitive Analysis Project
+# Descrpitive Analysis Project for City Of Vancouver
 # Project Title: Implementing a Quality-Driven Data Analytics Solution on AWS for the City of Vancouver
 # Objective
   The primary goal of this project is to conduct a descriptive analysis and design and implement a scalable and secure data analytics platform on AWS for the City of Vancouver that enables descriptive analytics on public datasets—specifically rental standards data—by establishing automated data ingestion, profiling, cleaning, and monitoring pipelines. The project aims to ensure data quality (completeness, uniqueness), enable governance through AWS CloudTrail, and deliver cost-effective, cloud-native solutions with detailed cost estimation and support planning.
